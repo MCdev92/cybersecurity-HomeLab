@@ -15,3 +15,9 @@ This dedicated Cybersecurity Home Lab environment was meticulously crafted with 
 2. Install all required images inside your virtual machine
 
 ## Walkthrough/Demo
+* Encryption / Decryption:
+  ![Screenshot 2024-02-10 at 11 21 27 AM](https://github.com/MCdev92/cybersecurity-HomeLab/assets/110692284/36bb1531-ec53-4ba0-bee7-170f28dc296e)
+  ![Screenshot 2024-02-10 at 11 21 03 AM](https://github.com/MCdev92/cybersecurity-HomeLab/assets/110692284/fb487e05-efbe-4e27-af25-c51324bff401)
+
+  
+
